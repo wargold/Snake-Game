@@ -17,4 +17,4 @@ testing.
 
 The newest version of the game is in the directory src, in order to run the game, compile and run the Game.java file. To start the game hit the Enter button from the main menu, the Snake will be moved with the arrow keys.
 
-_This Snake game was developet during our second semester for the course, [DD1349](https://www.kth.se/student/kurser/kurs/DD1349?l=en) Project in Introduction to Computer Science._
+_This Snake game was developed during our second semester for the course, [DD1349](https://www.kth.se/student/kurser/kurs/DD1349?l=en) Project in Introduction to Computer Science._
